@@ -12,8 +12,8 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Jody9678/GettingAndCleaningData/R/Analysis.R "Analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/Jody9678/GettingAndCleaningData/R/TidyData.txt "TidyData.txt")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Jody9678/GettingAndCleaningData/blob/Master/R/Analysis.R "Analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/Jody9678/GettingAndCleaningData/blob/Master/R/TidyData.txt "TidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/Jody9678/GettingAndCleaningData "Click to go to Repo")
-CodeBook | CodeBook.md |  [Repo Link](https://github.com/Jody9678/GettingAndCleaningData/R/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/Jody9678/GettingAndCleaningData/R/README.md "README.md")
+CodeBook | CodeBook.md |  [Repo Link](https://github.com/Jody9678/GettingAndCleaningData/blob/Master/R/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/Jody9678/GettingAndCleaningData/blob/Master/R/README.md "README.md")
